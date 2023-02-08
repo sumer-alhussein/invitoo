@@ -1,1 +1,2 @@
-import WelcomeScreen from "./welcome/welcomeScreen";
+import Welcome from "./welcome";
+export { Welcome };
