@@ -31,7 +31,6 @@ export const WelcomeScreen = () => {
       <View>
         <Text fontSize="xs">Text</Text>
         <Icon as={MaterialIcons} name="home" size={"md"} />
-        <Icon as={MaterialIcons} name="home" size={"md"} />
       </View>
     </View>
   );
